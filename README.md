@@ -16,13 +16,15 @@
   - Done in Collaboration with the Universidad Javeriana of Colombia
 
 ## Projects
-### BROOM
-
-Created an on-demand cleaning app to allow users to request a cleaner to their current location. Utilized Django for backend, Postgresql for  database, and React for User Interface. Current application allows users to create an account and choose either to be a cleaner or need cleaning. If a cleaning is needed then the users are able to request a cleaner, if the user is a cleaner then they can accept requests and a map is shown to the user's location.
 
 ### Disease Prediction Project
 
 Analyzed a Dataset of (4920 x 17) shape consisting of several diseases and associated symptoms. Utilized the Data Science project workflow to import, clean, analyze, and visualize data. Through ScikitLearn, trained a Random Forest Classification model to predict a disease based on inputted symptoms with 99% accuracy. Visualized results using Plotly, Seaborn, and Network X to create the following graphs: A network of diseases and associated symptoms, A heatmap of Model metrics, A confusion matrix, and a barplot to show feature importance. 
+
+### BROOM
+
+Created an on-demand cleaning app to allow users to request a cleaner to their current location. Utilized Django for backend, Postgresql for  database, and React for User Interface. Current application allows users to create an account and choose either to be a cleaner or need cleaning. If a cleaning is needed then the users are able to request a cleaner, if the user is a cleaner then they can accept requests and a map is shown to the user's location.
+
 
 ### Millspedia 
 
