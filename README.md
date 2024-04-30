@@ -1,2 +1,2 @@
-# ClassProjects
-Projects done for DS2000: Intermediate Programming with Data
+#Aspiring Data Engineer @ Northeastern University
+#B.S. in Data Science and Mathematics
