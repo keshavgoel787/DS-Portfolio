@@ -1,4 +1,4 @@
-## Class Projects done for DS2000 
+## Class Projects & More
 
 ### About Me:
 - Aspiring Data Scientist @ Northeastern University
