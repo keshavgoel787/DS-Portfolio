@@ -1,3 +1,6 @@
-##Class Projects done for DS2000 
+## Class Projects done for DS2000 
 
-#Aspiring 
+### About Me:
+- Aspiring Data Scientist @ Northeastern University
+- Current Rising Sophomore
+
