@@ -1,2 +1,3 @@
-#Aspiring Data Engineer @ Northeastern University
-#B.S. in Data Science and Mathematics
+##Class Projects done for DS2000 
+
+#Aspiring 
